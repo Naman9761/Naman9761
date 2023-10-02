@@ -26,7 +26,7 @@ Passionate web developer constantly exploring new technologies to enhance my ski
 
 ---
 
-[![An image of @naman9761's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/naman9761)](https://holopin.io/@naman9761
+[An image of @naman9761's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/naman9761)]
 
 ------
   ## 💰 You can help me by Donating
