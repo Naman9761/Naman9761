@@ -25,8 +25,7 @@ Passionate web developer constantly exploring new technologies to enhance my ski
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
-
-[An image of @naman9761's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/naman9761)]
+[![An image of @naman9761's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/naman9761)](https://holopin.io/@naman9761)
 
 ------
   ## 💰 You can help me by Donating
