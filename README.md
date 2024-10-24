@@ -39,9 +39,6 @@ Passionate web developer constantly exploring new technologies to enhance my ski
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Naman9761&limit=5&theme=onedark&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-
 ---
 
 [![An image of @naman9761's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/naman9761)](https://holopin.io/@naman9761)
